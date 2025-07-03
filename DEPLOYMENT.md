@@ -24,7 +24,7 @@ git init
 git add .
 git commit -m "Initial commit: CDP x LLM Streamlit app"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/cdp-streamlit.git
+git remote add origin https://github.com/ddoriboo/cdp-streamlit.git
 git push -u origin main
 ```
 
@@ -34,7 +34,7 @@ git push -u origin main
 1. [Streamlit Cloud](https://share.streamlit.io/)에 로그인
 2. "New app" 버튼 클릭
 3. 다음 정보 입력:
-   - **Repository**: `YOUR_USERNAME/cdp-streamlit`
+   - **Repository**: `ddoriboo/cdp-streamlit`
    - **Branch**: `main`
    - **Main file path**: `app.py`
    - **App URL**: 원하는 URL (예: `cdp-llm-demo`)
@@ -193,7 +193,7 @@ Streamlit Cloud 대시보드에서:
 ## 📞 지원
 
 문제가 발생하면:
-1. [GitHub Issues](https://github.com/YOUR_USERNAME/cdp-streamlit/issues)에 등록
+1. [GitHub Issues](https://github.com/ddoriboo/cdp-streamlit/issues)에 등록
 2. Streamlit Community Forum 참조
 3. OpenAI API 문서 확인
 

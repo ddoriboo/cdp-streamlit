@@ -27,7 +27,7 @@ AI 기반 고객 세그먼테이션 · 컬럼 탐색 · 팀별 맞춤 추천 플
 
 ```bash
 # 저장소 클론
-git clone https://github.com/your-username/cdp-streamlit.git
+git clone https://github.com/ddoriboo/cdp-streamlit.git
 cd cdp-streamlit
 
 # 가상환경 생성 및 활성화
